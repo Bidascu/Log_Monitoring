@@ -11,4 +11,5 @@ This script is used to monitor logs and check the status of jobs.
 - <path_job_status> - path/to/your/job/status/file
 
 ## Version History
-- 1.0: Initial version
+- 1.0: Initial version - Log reading;
+- 2.0: Store log status, calculate total time and check it accordingly.
